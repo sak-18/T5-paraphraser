@@ -1,3 +1,6 @@
 [submodule "cocoapi"]
 	path = cocoapi
 	url = https://github.com/cocodataset/cocoapi.git
+[submodule "visual_genome_python_driver"]
+	path = visual_genome_python_driver
+	url = https://github.com/ranjaykrishna/visual_genome_python_driver.git

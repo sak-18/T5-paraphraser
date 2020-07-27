@@ -1,1 +1,5 @@
 /dataset
+/lightning_logs
+/t5_paraphrase_mini
+/t5_paraphrase_mini1
+/t5_paraphrase
